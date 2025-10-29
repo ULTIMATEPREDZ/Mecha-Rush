@@ -6,7 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Github/Mecha-Rush/Mecha_Rush/Content/Bluprints/BP_MovingPlatform.uasset",
-				"C:/Github/Mecha-Rush/Mecha_Rush/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+				"C:/Github/Mecha-Rush/Mecha_Rush/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Github/Mecha-Rush/Mecha_Rush/Content/Input/Actions/IA_Slide.uasset",
+				"C:/Github/Mecha-Rush/Mecha_Rush/Content/Input/IMC_Default.uasset"
 			]
 		}
 	]
