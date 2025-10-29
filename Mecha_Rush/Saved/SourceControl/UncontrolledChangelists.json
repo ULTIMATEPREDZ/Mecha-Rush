@@ -5,7 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Github/Mecha-Rush/Mecha_Rush/Content/Bluprints/BP_MovingPlatform.uasset"
+				"C:/Github/Mecha-Rush/Mecha_Rush/Content/Bluprints/BP_MovingPlatform.uasset",
+				"C:/Github/Mecha-Rush/Mecha_Rush/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Github/Mecha-Rush/Mecha_Rush/Content/Input/Actions/IA_Slide.uasset",
+				"C:/Github/Mecha-Rush/Mecha_Rush/Content/Input/IMC_Default.uasset",
+				"C:/Github/Mecha-Rush/Mecha_Rush/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/3M/CN6DASGRPPAPEICARMETU3.uasset",
+				"C:/Github/Mecha-Rush/Mecha_Rush/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/GZ/TTBKQTM7H2HDLWB3T16ZLY.uasset",
+				"C:/Github/Mecha-Rush/Mecha_Rush/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/2S/YYEK57BYW338GJ32WTJDYX.uasset",
+				"C:/Github/Mecha-Rush/Mecha_Rush/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/S8/G7O4I8H8A9QHDM74FLOEST.uasset",
+				"C:/Github/Mecha-Rush/Mecha_Rush/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/HC/EK0AS91IJPJOSC7JP5GBMJ.uasset"
 			]
 		}
 	]
