@@ -5642,3 +5642,6 @@ Sampler Limit: 32
 [2025.11.10-14.59.15:265][324]AssetCheck: /Game/Materials/Textures/FloatingPlatform_standardSurface1_Emissive_Utility_-_sRGB_-_Texture Validating asset
 [2025.11.10-14.59.15:265][324]AssetCheck: /Game/Materials/Textures/FloatingPlatform_standardSurface1_Normal_Utility_-_Raw Validating asset
 [2025.11.10-14.59.15:302][324]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Harri/OneDrive/Documents/GitHub/Mecha-Rush/Mecha-Rush/Mecha_Rush 5.6/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.10-15.01.19:217][846]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4746.407715
+[2025.11.10-15.01.20:217][849]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.10-15.01.20:217][850]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4747.074707, Update Interval: 323.758667
