@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GITHUB/Mecha-Rush/Mecha_Rush 5.6/Content/Input/IMC_Default.uasset",
+				"D:/GITHUB/Mecha-Rush/Mecha_Rush 5.6/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"D:/MecRush/Mecha-Rush/Mecha_Rush 5.6/Content/__ExternalActors__/Levels/Lvl_FirstPerson/7/NI/7Z9KFUHGDC33I0LYBUUYUQ.uasset",
 				"D:/MecRush/Mecha-Rush/Mecha_Rush 5.6/Content/__ExternalActors__/Levels/Lvl_FirstPerson/0/6S/0H8VG3IQ3IWK1TQXL9YLQS.uasset",
 				"D:/MecRush/Mecha-Rush/Mecha_Rush 5.6/Content/__ExternalActors__/Levels/Lvl_FirstPerson/0/GZ/TTBKQTM7H2HDLWB3T16ZLY.uasset",
